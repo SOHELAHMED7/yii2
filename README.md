@@ -97,6 +97,3 @@ If your code is hosted at GitHub, you can place the following in your README.md 
 Support this project by becoming a sponsor or a backer. 
 
 [![OpenCollective sponsors](https://opencollective.com/yiisoft/sponsors/badge.svg)](https://opencollective.com/yiisoft) [![OpenCollective backers](https://opencollective.com/yiisoft/backers/badge.svg)](https://opencollective.com/yiisoft)
-
-
-test
